@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.js": "./static/js/main.87c1c459.chunk.js",
-    "main.js.map": "./static/js/main.87c1c459.chunk.js.map",
+    "main.js": "./static/js/main.c681ddcc.chunk.js",
+    "main.js.map": "./static/js/main.c681ddcc.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.ca13c05a.js",
     "runtime-main.js.map": "./static/js/runtime-main.ca13c05a.js.map",
     "static/css/2.5c17b9f1.chunk.css": "./static/css/2.5c17b9f1.chunk.css",
     "static/js/2.8391c021.chunk.js": "./static/js/2.8391c021.chunk.js",
     "static/js/2.8391c021.chunk.js.map": "./static/js/2.8391c021.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.5e2ff37254b9f67c000fd3362e6a20d3.js": "./precache-manifest.5e2ff37254b9f67c000fd3362e6a20d3.js",
+    "precache-manifest.6052f3f503306ab798ca1b186f31d998.js": "./precache-manifest.6052f3f503306ab798ca1b186f31d998.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.5c17b9f1.chunk.css.map": "./static/css/2.5c17b9f1.chunk.css.map",
     "static/js/2.8391c021.chunk.js.LICENSE.txt": "./static/js/2.8391c021.chunk.js.LICENSE.txt",
     "static/media/care.svg": "./static/media/care.19313fd7.svg",
     "static/media/chance.svg": "./static/media/chance.b2a12554.svg",
-    "static/media/chart.svg": "./static/media/chart.78b48648.svg",
+    "static/media/chart.svg": "./static/media/chart.60a5ff15.svg",
     "static/media/coin.svg": "./static/media/coin.739815c2.svg",
     "static/media/diversity.svg": "./static/media/diversity.b24e0442.svg",
-    "static/media/globel.svg": "./static/media/globel.9d4b132a.svg",
+    "static/media/global.svg": "./static/media/global.9d4b132a.svg",
     "static/media/health.svg": "./static/media/health.23fec504.svg",
     "static/media/mobile-chance.svg": "./static/media/mobile-chance.027ca82a.svg",
-    "static/media/mobile-chart.svg": "./static/media/mobile-chart.e3d1b4d2.svg",
+    "static/media/mobile-chart.svg": "./static/media/mobile-chart.3fcc3a8d.svg",
     "static/media/mobile-diversity.svg": "./static/media/mobile-diversity.3c29d5d6.svg",
     "static/media/mobile-multiple.svg": "./static/media/mobile-multiple.f947c1df.svg",
     "static/media/mobile-rate.svg": "./static/media/mobile-rate.d11af3ae.svg",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.ca13c05a.js",
     "static/css/2.5c17b9f1.chunk.css",
     "static/js/2.8391c021.chunk.js",
-    "static/js/main.87c1c459.chunk.js"
+    "static/js/main.c681ddcc.chunk.js"
   ]
 }
